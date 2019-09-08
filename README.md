@@ -37,7 +37,8 @@ POSTDATA reasearch group (UNED) is responsible for providing this dataset thanks
 * Ángeles Manjarrés Riesco (amanja@dia.uned.es)
 * Salvador Ros Muñoz (sros@scc.uned.es)
 
-Barbado González, Alberto. Fresno Fernández, Víctor. Manjarrés Riesco, Ángeles. Ros Muñoz, Salvador. 2019. Diachronic Spanish Sonnet Corpus with Psychological and Affective Labels (DISCO PAL). Madrid. UNED. URL. DOI
+Barbado González, Alberto. Fresno Fernández, Víctor. Manjarrés Riesco, Ángeles. Ros Muñoz, Salvador. 2019. Diachronic Spanish Sonnet Corpus with Psychological and Affective Labels (DISCO PAL). Madrid. UNED. URL. [![DOI](https://zenodo.org/badge/207177683.svg)](https://zenodo.org/badge/latestdoi/207177683)
+
 
 ## License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details
