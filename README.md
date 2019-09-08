@@ -16,47 +16,20 @@ POSTDATA reasearch group (UNED) is responsible for providing this dataset thanks
 
 | Happiness  |  Anger | Sadness  | Fear | Disgust  |
 |---|---|---|---|---|
-|  **Valence |  Arousal |  Concreteness | Imageability  | Context Availability**  |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  **Valence** |  **Arousal** |  **Concreteness** | **Imageability**  | **Context Availability**  |
 
-  •	Happiness
-  •	Anger
-  •	Sadness
-  •	Fear
-  •	Disgust
-  •	Valencia
-  •	Arousal
-  •	Concreteness 
-  •	Imageability 
-  •	Context availability
 
 **Psychological**:
 - Together with this, the experts have annotated some psychological features that have been defined as relevant in the literature (García Franco & Manjarrés Riesco, 2016). 
 - These annotations are binary, indicating with a 1 in case the sonnet refers to that concept and 0 otherwise.
 - The features are
 
-  •	Solitude
-  •	Illusion
-  •	Dreaming
-  •	Greatness
-  •	Pride
-  •	Irritability
-  •	Anxiety
-  •	Anger
-  •	Instability
-  •	Idealization
-  •	Depression
-  •	Disappointment
-  •	Dislike
-  •	Insecurity
-  •	Impotence
-  •	Vulnerability
-  •	Fear
-  •	Obsession
-  •	Compulsion
-  •	Prejudice
-  •	Dramatization
+| Solitude  |  Illusion | Dreaming  | Greatness | Pride  |
+|---|---|---|---|---|
+|  **Irritability** |  **Anxiety** |  **Anger** | **Instability**  | **Idealization**  |
+|  **Depression** |  **Disappointment** |  **Dislike** | **Insecurity**  | **Impotence**  |
+|  **Vulnerability** |  **Fear** |  **Obsession** | **Compulsion**  | **Prejudice**  |
+|  **Dramatization** |  |  |   |   |
 
 ## Authors and citation
 * Alberto Barbado González (abarbado5@alumno.uned.es)
