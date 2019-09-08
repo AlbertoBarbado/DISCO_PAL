@@ -13,42 +13,42 @@ POSTDATA reasearch group (UNED) is responsible for providing this dataset thanks
 - They represent the ability for the sonnet to evoke that affection 
 - The affective features have a scale range of 1 for minimum to 4 for maximum
 - The features are:
-•	Happiness
-•	Anger
-•	Sadness
-•	Fear
-•	Disgust
-•	Valencia
-•	Arousal
-•	Concreteness 
-•	Imageability 
-•	Context availability
+  •	Happiness
+  •	Anger
+  •	Sadness
+  •	Fear
+  •	Disgust
+  •	Valencia
+  •	Arousal
+  •	Concreteness 
+  •	Imageability 
+  •	Context availability
 
 **Psychological**:
 - Together with this, the experts have annotated some psychological features that have been defined as relevant in the literature (García Franco & Manjarrés Riesco, 2016). 
 - These annotations are binary, indicating with a 1 in case the sonnet refers to that concept and 0 otherwise.
 - The features are
-•	Solitude
-•	Illusion
-•	Dreaming
-•	Greatness
-•	Pride
-•	Irritability
-•	Anxiety
-•	Anger
-•	Instability
-•	Idealization
-•	Depression
-•	Disappointment
-•	Dislike
-•	Insecurity
-•	Impotence
-•	Vulnerability
-•	Fear
-•	Obsession
-•	Compulsion
-•	Prejudice
-•	Dramatization
+  •	Solitude
+  •	Illusion
+  •	Dreaming
+  •	Greatness
+  •	Pride
+  •	Irritability
+  •	Anxiety
+  •	Anger
+  •	Instability
+  •	Idealization
+  •	Depression
+  •	Disappointment
+  •	Dislike
+  •	Insecurity
+  •	Impotence
+  •	Vulnerability
+  •	Fear
+  •	Obsession
+  •	Compulsion
+  •	Prejudice
+  •	Dramatization
 
 ## Authors and citation
 * Alberto Barbado González (abarbado5@alumno.uned.es)
