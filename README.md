@@ -13,6 +13,7 @@ POSTDATA reasearch group (UNED) is responsible for providing this dataset thanks
 - They represent the ability for the sonnet to evoke that affection 
 - The affective features have a scale range of 1 for minimum to 4 for maximum
 - The features are:
+
 | Happiness  |  Anger | Sadness  | Fear | Disgust  |
 |---|---|---|---|---|
 |  Valence |  Arousal |  Concreteness | Imageability  | Context Availability  |
