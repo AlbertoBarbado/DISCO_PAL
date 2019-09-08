@@ -16,7 +16,7 @@ POSTDATA reasearch group (UNED) is responsible for providing this dataset thanks
 
 | Happiness  |  Anger | Sadness  | Fear | Disgust  |
 |---|---|---|---|---|
-|  Valence |  Arousal |  Concreteness | Imageability  | Context Availability  |
+|  **Valence |  Arousal |  Concreteness | Imageability  | Context Availability**  |
 |   |   |   |   |   |
 |   |   |   |   |   |
 
