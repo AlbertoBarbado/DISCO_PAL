@@ -45,7 +45,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 ## References
 * Ruiz Fabo, Pablo, Helena Bermúdez Sabel, Clara Martínez Cantón, and José Calvo Tello. 2017. Diachronic Spanish Sonnet Corpus (DISCO). Madrid: UNED. https://github.com/pruizf/disco. DOI 10.5281/zenodo.1069844
-* García Franco, J. D., & Manjarrés Riesco, Á. (2016). Modelado de los trastornos de la personalidad en OWL - lógica descriptiva y aplicación al desarrollo de un sistema experto de diagnóstico clínico y educativo; Universidad Nacional de Educación a Distancia (UNED)).
+* García Franco, J. D., & Manjarrés Riesco, Á. (2016). Modelado de los trastornos de la personalidad en OWL - lógica descriptiva y aplicación al desarrollo de un sistema experto de diagnóstico clínico y educativo; Universidad Nacional de Educación a Distancia (UNED).
 
 ## Acknowledgements
 Thanks to POSTDATA research group in general, and in particular the experts Laura Alises, Marie Olivier and Aroa Rabdán, for providing the annotations for these sonnets.
