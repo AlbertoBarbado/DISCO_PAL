@@ -1,6 +1,6 @@
 # DISCO PAL: Diachronic Spanish Sonnet Corpus with Psychological and Affective Labels 
 
-This dataset contains a Spanish corporus of sonnets annotated with affective and psychological features.
+This dataset contains a Spanish corporus of 274 sonnets annotated with affective and psychological features.
 
 ## Source corpus
 The source corpus for the annotations is DISCO [1].
