@@ -43,17 +43,16 @@ POSTDATA reasearch group (UNED) is responsible for providing this dataset thanks
 
 Barbado González, Alberto. Fresno Fernández, Víctor. Manjarrés Riesco, Ángeles. Ros Muñoz, Salvador. 2019. DISCO PAL: Diachronic Spanish Sonnet Corpus with Psychological and Affective Labels. Madrid. UNED. https://github.com/AlbertoBarbado/DISCO_PAL. [![DOI](https://zenodo.org/badge/207177683.svg)](https://zenodo.org/badge/latestdoi/207177683)
 
-## License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details
-
-## Citation
-Please, cite this dataset through its publication:
+You can cite this dataset through its publication:
 @article{barbado2020disco,
   title={DISCO PAL: Diachronic Spanish Sonnet Corpus with Psychological and Affective Labels},
   author={Barbado, Alberto and Fresno, V{\'\i}ctor and Riesco, {\'A}ngeles Manjarr{\'e}s and Ros, Salvador},
   journal={arXiv preprint arXiv:2007.04626},
   year={2020}
 }
+
+## License
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details
 
 ## References
 * [1] Ruiz Fabo, Pablo, Helena Bermúdez Sabel, Clara Martínez Cantón, and José Calvo Tello. 2017. Diachronic Spanish Sonnet Corpus (DISCO). Madrid: UNED. https://github.com/pruizf/disco. DOI 10.5281/zenodo.1069844
